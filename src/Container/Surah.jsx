@@ -67,4 +67,4 @@ class Surah extends React.Component {
   }
 }
 
-export default withRouter(Surah);
+export default withRouter(Surah)
