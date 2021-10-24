@@ -4,4 +4,4 @@ const getNewsSurah = () => Get("data");
 
 const API = { getNewsSurah };
 
-export default API;
+export default API
