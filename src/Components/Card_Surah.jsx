@@ -18,4 +18,4 @@ const Card_Surah = (props) => {
   );
 };
 
-export default Card_Surah
+export default Card_Surah;
