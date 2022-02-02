@@ -1,7 +1,10 @@
 # QURAN IC 
 
-<h2> API for list surah</h2>
+# API for list surah
 https://api.npoint.io/99c279bb173a6e28359c/data
+
+<br>
+
 ```
 [ 
 	{
@@ -32,7 +35,7 @@ https://api.npoint.io/99c279bb173a6e28359c/data
 ]
 ```
 
-<h2> API for list ayat </h2>
+# API for list ayat
 https://api.npoint.io/99c279bb173a6e28359c/surat/1
 ```
 [ 
